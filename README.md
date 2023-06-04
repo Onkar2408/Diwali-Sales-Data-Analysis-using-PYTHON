@@ -8,7 +8,7 @@
 Firstly I have to import libraries such as pandas, numpy, matplotlib and seaborn in jupyter notebook
 
 # Loading .csv file using pandas
-Then I load  the csv file containing all the raw data using pandas function pd.read_csc()
+load the csv file containing all the raw data using pandas function pd.read_csc()
 
 # Data Cleaning
 To check the datatype of each column we are going to use df.info() [we have load our csv file in df]
