@@ -5,9 +5,9 @@
 2. Improving customer experience by analyze sales data.
 3. Increase revenue.
 
+Firstly I have to import libraries such as pandas, numpy, matplotlib and seaborn in jupyter notebook
+
 # Loading .csv file using pandas
-The steps I followed to complete my projects are as follows:
-Firstly I have to import libraries such as pandas, numpy, matplotlib and seaborn
 Then I load  the csv file containing all the raw data using pandas function pd.read_csc()
 
 # Data Cleaning
