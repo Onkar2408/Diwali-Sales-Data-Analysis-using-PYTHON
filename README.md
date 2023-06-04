@@ -1,6 +1,6 @@
 # Python_Project-Diwali-Sales-Data-
 
-# The objective of the project are - 
+# OBJECTIVES OF THE PROJECT ARE - 
 1. To analyse Diwali sales on the basis of diffetent products, gender, state, age, occupation and zone area of the customers.
 2. Improving customer experience by analyze sales data.
 3. Increase revenue.
