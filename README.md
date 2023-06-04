@@ -21,7 +21,7 @@ When any row has null values then to eliminate such null values we call command 
 
 If we want to find min, max, avg, total, standard deviation, 25%, 50%, 75% etc we use df.describe()
 
-# Now after cleaning data its time to analyze data
+Now after cleaning data its time to analyze data
 So now we are going for exploratory data analysis (EDA)
 
 Firstly we are going to analyse data on the basis of 
